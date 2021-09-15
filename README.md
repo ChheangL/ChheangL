@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ChheangL
-- 👀 I’m interested in Project regarding Microcontroller and MachineLearning.
-- 🌱 I’m currently learning ELectronic Engeering plus some side quest as well including Robotic and MachineLearning.
-- 💞️ I’m looking to collaborate on innovative technology and a way to standing out side the box.
-- 📫 How to reach me lychheang008@gmail.com.
+These are the code in my project which is about connect ESP32 to a Eink paper display to show the date got from NTP server.
 
 <!---
 ChheangL/ChheangL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
