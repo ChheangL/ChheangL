@@ -19,8 +19,8 @@
 #include <time.h>
 #define uS_TO_S_FACTOR 1000000ULL
 #define TIME_TO_SLEEP  3600
-const char* ssid       = "MTech_Solution2";
-const char* password   = "No88138Jun2011";
+const char* ssid       = "SSID";
+const char* password   = "Password";
 const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset_sec = 7;
 const int   daylightOffset_sec = 0;
